@@ -29,7 +29,9 @@
       2020: Vancouver, British Columbia, Canada[17]
       2021: Sydney, New South Wales, Australia
       ```
-
+  * ICML,NIPS 발표논문 분석: 카카오AI리포트
+    * <https://brunch.co.kr/@kakao-it/63>
+  
 ## Develpoer
 
 * GitHub Universe
