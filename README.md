@@ -29,18 +29,16 @@
       2020: Vancouver, British Columbia, Canada[17]
       2021: Sydney, New South Wales, Australia
       ```
-  * https://brunch.co.kr/@kakao-it/320
-  
-  * 카카오 정책산업 연구: <https://brunch.co.kr/@kakao-it#articles>
-    * ICML,NIPS 발표논문 분석: <https://brunch.co.kr/@kakao-it/63>
-    * 2019년 주요 AI 콘퍼런스: <https://brunch.co.kr/@kakao-it/322>
-    * EMNLP 2018 참관기: <https://brunch.co.kr/@kakao-it/320>
-  * 핑퐁팀 블로그
-    * https://blog.pingpong.us/
-    * 핑퐁팀과 함께하는 ACL 2020 리뷰: <https://blog.pingpong.us/acl2020-review/>
-    * 쿠버네티스(Kubernetes)를 활용한 안정적이고 효율적인 운영 환경 구성하기: <https://blog.pingpong.us/kubernetes-in-pingpong/>
-    * Transformer - Harder, Better, Faster, Stronger: <https://blog.pingpong.us/transformer-review/#%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A4%84%EC%9D%B4%EA%B8%B0-faster-and-stronger>
 
+* 카카오 정책산업 연구: <https://brunch.co.kr/@kakao-it#articles>
+  * ICML,NIPS 발표논문 분석: <https://brunch.co.kr/@kakao-it/63>
+  * 2019년 주요 AI 콘퍼런스: <https://brunch.co.kr/@kakao-it/322>
+  * EMNLP 2018 참관기: <https://brunch.co.kr/@kakao-it/320>
+* 핑퐁팀 블로그
+  * https://blog.pingpong.us/
+  * 핑퐁팀과 함께하는 ACL 2020 리뷰: <https://blog.pingpong.us/acl2020-review/>
+  * 쿠버네티스(Kubernetes)를 활용한 안정적이고 효율적인 운영 환경 구성하기: <https://blog.pingpong.us/kubernetes-in-pingpong/>
+  * Transformer - Harder, Better, Faster, Stronger: <https://blog.pingpong.us/transformer-review/#%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A4%84%EC%9D%B4%EA%B8%B0-faster-and-stronger>
     
 ## Develpoer
 
