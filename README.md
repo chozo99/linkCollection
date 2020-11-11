@@ -5,6 +5,14 @@
 * 한글 및 한국어 정보처리 학술대회
   * 논문집 모음: <http://hclt.kr/symp/?lnb=conference>
 
+* EMNLP papers
+  * <https://www.aclweb.org/anthology/events/>
+  * <https://www.aclweb.org/anthology/events/emnlp-2019/>
+  * <https://www.aclweb.org/anthology/events/emnlp-2020/>
+
+* NIPS papers
+  * <https://proceedings.neurips.cc/>
+
 * SQuAD: The Stanford Question Answering Dataset
   * <https://rajpurkar.github.io/SQuAD-explorer/>
     * <https://arxiv.org/abs/1606.05250>
