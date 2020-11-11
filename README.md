@@ -5,3 +5,11 @@
 
 * SQuAD: The Stanford Question Answering Dataset
   * <https://rajpurkar.github.io/SQuAD-explorer/>
+    * <https://arxiv.org/abs/1606.05250>
+
+* 모두 연구소 github repository
+  * <https://github.com/modulabs>
+  * <https://github.com/modulabs/NLP-bootcamp>
+  * <https://github.com/modulabs/DeepNLP>
+    * <https://reniew.github.io/contents/>
+  
