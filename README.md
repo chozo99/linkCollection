@@ -23,23 +23,12 @@
 이런 점이 신경과학, 인지과학, 심리학, 생물정보학, 컴퓨터과학, 전자공학, 수학, 물리학, 통계학 등을 아우르는 과학/공학 분야의 다양한 연구자들을 매년 참석하게 하는 기반이 되고 있다.
   * <https://www.hellodd.com/news/articleView.html?idxno=70619>
     > NeurIPS는 유난히 등록이 빨리 마감되는 학회로 유명하다. 작년에는 오픈한지 15분 만에 사전등록이 마감돼 그는 노심초사하며 올해 학회 등록 날짜만을 기다렸다. 하지만 너무 많은 사람들이 학회 등록을 희망하면서 올해부터는 추첨제로 참가 신청방식이 변경됐다.
-  * 개최지: <https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems>
-    > 
-Past editions:
-
-United States 1987–2000: Denver, Colorado, United States
-Canada 2001–2010: Vancouver, British Columbia, Canada
-Spain 2011: Granada, Spain, EU
-United States 2012 & 2013: Stateline, Nevada, United States
-Canada 2014 & 2015: Montréal, Quebec, Canada
-Spain 2016: Barcelona, Spain, EU [14]
-United States 2017: Long Beach, California, United States[15]
-Canada 2018: Montréal, Quebec, Canada[16]
-Canada 2019: Vancouver, British Columbia, Canada[17]
-Future editions:
-
-Canada 2020: Vancouver, British Columbia, Canada[17]
-Australia 2021: Sydney, New South Wales, Australia
+  * <https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems>
+    >
+      ```txt
+      2020: Vancouver, British Columbia, Canada[17]
+      2021: Sydney, New South Wales, Australia
+      ```
 
 ## Develpoer
 
